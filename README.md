@@ -158,7 +158,7 @@ nvm install 16
 ```
 ### 8. Install Yarn using NPM
 ```bash
-erpnext$:npm install -g yarn
+npm install -g yarn
 ```
 
 ### 9. Install ERPNext
